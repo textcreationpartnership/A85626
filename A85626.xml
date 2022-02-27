@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory by the blessing of God, obtained by the Parliaments forces, against the Scots forces. Commanded by the Earl of Derby, on the 25 of August 1651. neer Wigon in Lancashire. Certifyed by a letter from Col Lilburne, and two letters from Chester. Also a letter from Col. Birche, to Mr. Speaker. 1500. Totally routed, Earl of Derby wounded and pursued towards Boleon. L. Widdrington mortally wounded &amp; taken prisoner. 400 prisoners taken, amongst which many officers and gentlemen of note. Slaine 3 knights and divers Collonels, and other considerable officers and gentlemen. With a list of the chief particulars of the victory. Imprimatur Hen. Scobel Cleric. Parliamenti.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85626</idno>
+            <idno type="STC">Wing G1765</idno>
+            <idno type="STC">Thomason E640_27</idno>
+            <idno type="STC">ESTC R206686</idno>
+            <idno type="EEBO-CITATION">99865801</idno>
+            <idno type="PROQUEST">99865801</idno>
+            <idno type="VID">118052</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118052)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E640[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory by the blessing of God, obtained by the Parliaments forces, against the Scots forces. Commanded by the Earl of Derby, on the 25 of August 1651. neer Wigon in Lancashire. Certifyed by a letter from Col Lilburne, and two letters from Chester. Also a letter from Col. Birche, to Mr. Speaker. 1500. Totally routed, Earl of Derby wounded and pursued towards Boleon. L. Widdrington mortally wounded &amp; taken prisoner. 400 prisoners taken, amongst which many officers and gentlemen of note. Slaine 3 knights and divers Collonels, and other considerable officers and gentlemen. With a list of the chief particulars of the victory. Imprimatur Hen. Scobel Cleric. Parliamenti.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson dwelling in Smithfield neere Hosier Lane end,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118052:1" rendition="simple:additions"/>
+            <p>A Great Victory BY THE Bleſſing of God, obtained by the Par<g ref="char:EOLhyphen"/>liaments Forces, againſt the <hi>Scots</hi> forces.</p>
+            <p>Commanded By the Earl of DERBY, on the 25 of <hi>August</hi> 1651. neer <hi>Wigon</hi> in <hi>Lancaſhire.</hi>
+            </p>
+            <p>Certifyed By a Letter from Col <hi>Lilburne,</hi> and two Let<g ref="char:EOLhyphen"/>ters from <hi>Cheſter.</hi> Alſo a Letter from Col. <hi>Birche,</hi> to Mr. Speaker.</p>
+            <list>
+               <item>1500. Totally Routed,</item>
+               <item>Earl of <hi>Derby</hi> wounded and purſued towards <hi>Boleon.</hi>
+               </item>
+               <item>L. <hi>Widdrington</hi> mortally wounded &amp; taken priſoner.</item>
+               <item>400 Priſoners taken, amongſt which many Officers and Gentlemen of note.</item>
+            </list>
+            <p>SLAINE 3 Knights and divers Collonels, and other conſiderable Officers and Gentlemen.</p>
+            <p>
+               <hi>With A Liſt of the chief particulars of the Victory.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <signed>Hen. Scobel Cleric. Parliamenti.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed for <hi>Robert Ibbitſon</hi> dwelling in Smithfield neere Hoſier Lane end. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118052:2"/>
+            <pb n="1" facs="tcp:118052:2"/>
+            <head>
+               <hi>A LETTER FROM Col.</hi> THOMAS BIRCHE. <hi>TO</hi> The Right Honorable <hi>Will: Lenthall</hi> Eſq; Spea<g ref="char:EOLhyphen"/>ker of the Parliament of the Commonwealth of <hi>ENGLAND.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg>T pleaſed the Lord yeſterday to give an utter overthrow by Col. <hi>Lilburnes</hi> Regiment of Horſe to the Earle of <hi>Derbie,</hi> who was raiſing men here in this County for the <hi>Scots</hi> King. The Earl at his comming over from the Iſle of <hi>Man</hi> brought but 300 men whereof 60 were horſe, but landing about
+<pb n="2" facs="tcp:118052:3"/>the middle of the ſhire, when the <hi>Scots</hi> Army were paſſing out of it, he had the better opportunity by our deſtractions to march up to <hi>Warrington</hi> to them, and there he had the aſſiſtance of Major Gen. <hi>Maſſy</hi> with a Regiment of Horſe to countenance his pro<g ref="char:EOLhyphen"/>ceedings while he gathered more to him, who after<g ref="char:EOLhyphen"/>wards leaving him when the Earles Forces were re<g ref="char:EOLhyphen"/>puted conſiderable to carry on the worke, and there being none in this County left competent to make oppoſition, but all marched out with the Army; I ſent both to my Lord Generall, and the Major Generalls to acquaint them with it, whereupon Col. <hi>Lilburne</hi> came very opportunely, yet the enemy be<g ref="char:EOLhyphen"/>ing ſtronger in Foote, and ſecuring himſelfe be<g ref="char:EOLhyphen"/>twixt two Rivers, he was not to be attempted by Horſe only, and all that could be afforded in aſſiſt<g ref="char:EOLhyphen"/>ance were two Foot Companies from <hi>Cheſter,</hi> one of my Regiment left about <hi>Mancheſter,</hi> not being ſo ready as the reſt to march out, and what Musketeers I horſed from hence, with ſome few Country men; but ſince my Lord Generals owne Regiment of Foot being ſent up, and within one dayes march the Ene<g ref="char:EOLhyphen"/>my attempted towards the <hi>Scots</hi> Army, and being purſued by Col. <hi>Lilburnes</hi> Regiment, and the ſmall addition before named, without the conjunction of my Lord Generalls Regiment. It pleaſed God to give them an abſolue over-throw, as the incloſed from Col. <hi>Lilburne</hi> intimates. The number of Pri<g ref="char:EOLhyphen"/>ſoners, and the ſlaine, with their Qualifications, I cannot yet give further account of, but I hope the ſuc<g ref="char:EOLhyphen"/>ceſſe prevents all deſignes in theſe parts I muſt beg
+<pb n="3" facs="tcp:118052:3"/>excuſe for this diſtracted Letter, and ever am, Sir,</p>
+                  <closer>
+                     <dateline>
+                        <hi>Liverpoole,</hi> 
+                        <date>Aug. 26. 1651.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your moſt reall and humble Servant,</hi> Tho. Birche.</signed>
+                  </closer>
+                  <trailer>
+                     <hi>For the Right Honourable</hi> Wil. Lenthall <hi>Eſq Speak<g ref="char:EOLhyphen"/>er of the Parliament of the Common wealth of</hi> England, <hi>at</hi> Weſtminſter <hi>theſe preſent.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Honoured Sir:</salute>
+                  </opener>
+                  <p>THe Lord hath been pleaſed this day to appeare for us, in the totall rout and over-throw of the Lord of <hi>Derby,</hi> and his Forces, which was increaſed to about 1500. he himſelf though wounded, eſcaped, though narrowly. I would only entreat you to ſend out what Horſe you have, or can get, to ride up and downe the Country to gather up ſtraglers; I cannot enlarge my ſelfe at preſent, but I entreat you to ac<g ref="char:EOLhyphen"/>cept of this from him, that deſires to expreſſe him<g ref="char:EOLhyphen"/>ſelfe,</p>
+                  <closer>
+                     <dateline>
+                        <hi>Wiggan,</hi> 
+                        <date>25. Aug. 1651.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your very humble Servant</hi> Robert Lilburne.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Your Ammunition is come ſafe.</p>
+            <p>
+               <hi>The Lord of</hi> Derby <hi>I heare is fled towards</hi> Bolton, <hi>but his Sumptures and Treaſure are here; we intended for</hi> Mancheſter <hi>this night, and had hopes to take my Lord Gen. Regiment of Foot, and to have had five hundred men in readineſſe to joyne with them; the Lord</hi> Witheriugton <hi>cannot live long, Colonell</hi> Boynton, <hi>and</hi> Tildeſley <hi>are ſlaine, and others very conſiderable. I have divers Colonells Priſoners.</hi>
+            </p>
+            <p>For my Honoured Friend Col. <hi>Birch,</hi> Governour of <hi>Li<g ref="char:EOLhyphen"/>virp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ole</hi> theſe, haſte.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:118052:4"/>
+                  <head>A Letter from <hi>Cheſter.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe laſt night within three miles of <hi>Wig<g ref="char:EOLhyphen"/>gan</hi> your Forces ingaged the Earle of <hi>Darby</hi> and put them to a perfect rout, about 400 priſoners taken.</p>
+                  <p>The Lord <hi>Widdrington</hi> mortally wound<g ref="char:EOLhyphen"/>ed, Sir <hi>Francis Gamul,</hi> Colonel <hi>Tildeſley,</hi> Col. <hi>Throgmorton,</hi> Col. <hi>Trollop,</hi> and <hi>Galliard,</hi> and divers others of quality are ſlain.</p>
+                  <p>About five a clock this day, the Country men brought in about ten ſtubborn, reſolute Gentlemen of the ſcattered party. VVhi<g ref="char:EOLhyphen"/>ther the Earle is fled is doubtfull, but its cer<g ref="char:EOLhyphen"/>tain he is wounded, and of 1500 men not any left to ingage.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Cheſter</hi> 
+                        <date>26 <hi>Auguſt.</hi> 1651.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Another Letter from <hi>Cheſter.</hi>
+                  </head>
+                  <opener>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>I Could not but let you know what an earneſt the Lord hath given us of what undoubtedly he wil do in a far larger manner
+<pb n="5" facs="tcp:118052:4"/>Yeſterday about 3 of the clock the Forces that were under Col. <hi>Lilburne</hi> with 200 from this Garriſon fell upon the Earle of <hi>Derby</hi> near <hi>Wiggan</hi> in Lancaſhire, who had got<g ref="char:EOLhyphen"/>ten about 1500 together, the diſpute was not for near an hour, but then the Lord decided the Controverſie, and the Earls Forces total<g ref="char:EOLhyphen"/>ly routed, the Earl himſelf wounded but eſca<g ref="char:EOLhyphen"/>ped, the Lord <hi>Widdrington</hi> mortally wound<g ref="char:EOLhyphen"/>ed, Sir <hi>Tho. Tildeſley,</hi> Sir <hi>Wil. Throgmorton,</hi> Sir <hi>Fran: Gamull,</hi> Col. <hi>Boynton,</hi> Col. <hi>Trollop,</hi> Lieut. Colonell. <hi>Galliard,</hi> and many others of qua<g ref="char:EOLhyphen"/>lity ſlaine, 400 priſoners taken, whereof many of them were Officers and Gentlemen, we were not halfe their number, and ſcarce half <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f them could come up to charge, but the Lord hath wonderfully made known his power, and I am confident will go on to per<g ref="char:EOLhyphen"/>fect his great work, we loſt no Officer that we yet hear of, and not above 10 or 12 in all, Let God have all the Glory.</p>
+                  <closer>
+                     <signed>Jo: Whitworth:</signed>
+                     <dateline>
+                        <hi>Chester</hi> 
+                        <date>26 <hi>Aug.</hi> 1651.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <list>
+                  <head>A List of the cheife particulars of the Victory.</head>
+                  <item>1500 totally routed.</item>
+                  <pb n="6" facs="tcp:118052:5"/>
+                  <item>Earl of <hi>Derby</hi> wounded and purſued towards <hi>Bolton.</hi>
+                  </item>
+                  <item>Lord <hi>Widdrington</hi> mortally wounded and ta<g ref="char:EOLhyphen"/>ken priſoner.</item>
+                  <item>400. priſoners taken, amongſt which many Officers, and perſons of note.</item>
+               </list>
+               <list>
+                  <head>Where were ſlaine:</head>
+                  <item>Sir <hi>Thomas Tilſley.</hi>
+                  </item>
+                  <item>Sir <hi>William Throgkmorten.</hi>
+                  </item>
+                  <item>Sir <hi>Fran. Gamull.</hi>
+                  </item>
+                  <item>Col. <hi>Boynton.</hi>
+                  </item>
+                  <item>Col. <hi>Trollop.</hi>
+                  </item>
+                  <item>Lieut. Col. <hi>Galliard, and divers others.</hi>
+                  </item>
+               </list>
+            </p>
+            <closer>
+               <dateline>
+                  <date>29 Auguſt 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Hen. Scobel Cleric. Parliamenti.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118052:5" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
